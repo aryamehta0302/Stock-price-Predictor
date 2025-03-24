@@ -36,8 +36,6 @@ The Stock Price Predictor is a web application designed to forecast stock closin
 5. **Access the application:**
    Open your browser and go to `http://127.0.0.1:5000/`
 
-## 📸 Screenshots
-![App Preview](https://your-image-link.com)
 
 ## 🏆 Contributing
 Contributions are welcome! Follow these steps:
