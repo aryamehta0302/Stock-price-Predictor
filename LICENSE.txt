@@ -1,0 +1,28 @@
+LICENSE AGREEMENT
+
+Stock Price Predictor Web App (the "Software")
+
+Copyright (c) 2025 ARYA
+
+1. GRANT OF LICENSE:
+This Software is provided "as is" and is intended for personal and educational use only. You may view, modify, and use the code for non-commercial purposes, provided that proper attribution is given to the original author.
+
+2. RESTRICTIONS:
+(a) Redistribution, sublicensing, or sale of this Software in any form or medium is strictly prohibited without prior written consent.
+(b) Any modifications to the Software must retain this license and copyright notice.
+(c) Any use of the Software that violates applicable laws, or infringes upon the rights of third parties, is strictly prohibited.
+
+3. DISCLAIMER:
+This Software is provided without warranties of any kind, either express or implied, including but not limited to fitness for a particular purpose or non-infringement. The author shall not be held liable for any damages arising from the use of this Software.
+
+4. ATTRIBUTION:
+When using or referencing this Software in derivative works, projects, or presentations, proper acknowledgment must be given to the original author.
+
+5. CHANGES TO THE LICENSE:
+The author reserves the right to update or modify this license at any time. Updates will apply to future versions of the Software.
+
+For inquiries, contact:
+Email: mehtarya60@gmail.com
+Phone: 6353362927
+
+By using the Software, you agree to be bound by the terms of this license.
